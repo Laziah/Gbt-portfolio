@@ -263,6 +263,9 @@ footer span a:hover{
 @media (min-width: 769px) {
     .menu {
         display: flex;
+        max-width: 90%;
+  padding: 20px;
+  margin: auto;
     }
 
     .menu-btn {
