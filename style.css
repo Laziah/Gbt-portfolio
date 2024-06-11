@@ -53,7 +53,7 @@ html{
 }
 .navbar .menu li a {
     display: block;
-    color: #fff;
+    color: #fa0707;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -63,7 +63,7 @@ html{
     color: var(--cor-bg-principal);
 }
 .navbar.sticky .menu li a:hover{
-    color: #fa0707;
+    color: #fff;
 }
 
 .menu-btn{
