@@ -189,7 +189,7 @@ section .title::after{
 /* about section styling */
 
 .about .title::after{
-    content: "LAZIAH";
+    content: "Laziah";
 }
 
 .about .about-content .left{
